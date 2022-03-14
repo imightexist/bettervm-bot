@@ -1,4 +1,8 @@
 # bettervmbot-cmds
-Prefix is c!<br>
-Currently not finished yet<br>
-Source code may be released after it's finished
+Prefix is c!
+
+Source code will be released after this is finished
+# Commands
+Here are the current commands:
+## help
+Sends a link in the chat that leads you here
