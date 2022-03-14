@@ -12,8 +12,8 @@ Sends a link in the chat that leads you here
 Inserts a Windows 7 iso
 ## winxp
 Inserts a Windows XP iso
-## server2008r2
-Inserts a Windows Server 2008 R2 iso
+## server2008
+Inserts a Windows Server 2008 iso
 ## server2012r2
 Inserts a Windows Server 2012 R2 iso
 ## pfSense
