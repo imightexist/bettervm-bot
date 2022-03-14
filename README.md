@@ -23,4 +23,8 @@ Ejects the cd
 ## cert
 Explains how to install the certificate
 ## bootset
-Sets the first device for the boot order
+Sets the first device for the boot order<br>
+c - harddisk<br>
+d - cdrom<br>
+a - floppy<br>
+n - ipxe
