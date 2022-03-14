@@ -6,3 +6,7 @@ Source code will be released after this is finished
 Here are the current commands:
 ## help
 Sends a link in the chat that leads you here
+## cd
+## port
+## reboot
+## bootset
